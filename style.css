@@ -1,0 +1,24 @@
+a[href] {
+    color: green
+}
+
+a[target] {
+    color: red
+}
+
+#second-div>p:nth-child(odd) {
+    color: blue;
+}
+
+#second-div>p:nth-child(even) {
+    color: red;
+}
+
+#first-div>p::after {
+    content: " - NEW";
+    color: #f5f105;
+}
+
+body>p:last-of-type:hover {
+    font-style: italic;
+}
