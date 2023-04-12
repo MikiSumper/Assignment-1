@@ -3,7 +3,7 @@
     "development"
   ],
   "hints": {
-    "disown-opener": "off",
-    "meta-viewport": "off"
+    "meta-viewport": "off",
+    "disown-opener": "off"
   }
 }
