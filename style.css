@@ -1,9 +1,9 @@
 a[href] {
-    color: green
+    color: green;
 }
 
 a[target] {
-    color: red
+    color: red;
 }
 
 #second-div>p:nth-child(odd) {
